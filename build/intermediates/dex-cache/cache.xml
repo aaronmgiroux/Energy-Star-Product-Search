@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\aaron\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\pre-dexed\release\httpcore-4.4.1_8f53bcc35ab7d98ec9acf18a7d21d35167d22b20.jar" />
+    </item>
+    <item
+        jar="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.2.1_fce1b684f047376a14b21340daa6c51b3895f27c.jar" />
+    </item>
+    <item
+        jar="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\pre-dexed\release\internal_impl-23.2.1_277af1c1e747eacce4d6521e8bdadb882eb6edd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\aaron\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\pre-dexed\release\support-annotations-23.2.1_435a88ada1996741c78da30b84ff8167292089ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.2.1_ae50246aebb7a1c8fb57cee523cb169a716160d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.2.1_16e595faaccb7861e00ea8c10c5762e1951b5991.jar" />
+    </item>
+    <item
+        jar="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\aaron\Desktop\MyFolders\EnergyStar\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.2.1_9fb41ee855a2464ea9a832584ee999f027b26cf7.jar" />
+    </item>
+
+</items>
